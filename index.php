@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>App-test</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+      <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+      <script src="https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.min.js"></script>
+    <meta charset="utf-8">
+    <!-- Bootstrap -->    <link href="assets/bootstrap/css/bootstrap.css" rel="stylesheet">
+        <!-- Icons -->
+    <link href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <!-- Estilo -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/custom-style-bootstrap.css" rel="stylesheet">   
+    <link href="assets/css/hover.css" rel="stylesheet" media="all">
+        <!-- Compl. Css -->
+    <link href="assets/css/helper-classes.css" rel="stylesheet">
+    <!--- js -->
+    <script src="assets/js/min.js"></script>
+    <script src="assets/bootstrap/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+</head>
+<body class="container">
+  <div class="topo padding-three col-md-12 text-center">
+    <h1 class="Mosaico-Responsivo">Mosaico Responsivo</h1>
+    <span class="Explicao-Ao-clica">Explicação: Ao clicar em cada item do mosaico, ele deve rotacionar e mostrar o outro lado laranja contendo um texto descritivo. 
+A aplicaçnao deverá ser responsiva.</span>
+  </div>
+  <!-- Second line -->
+<div class="row mosaico container">
+<div class="col-md-3 col-sm-3 col-xs-3 relative border-all-grey content">
+   <div class="front absolute"  > 
+      <img src="assets/images/mendes-junior.png">
+    </div>
+      <div class="title absolute back text-center"  >
+        <h3 class="white bold"> Marcelo Tostes<h3>
+        <span class="white text-size-70 container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex enim, rutrum fringilla leo viverra, tincidunt sagittis.</span>
+    </div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-3 relative border-all-grey content">
+   <div class="front absolute"  > 
+      <img src="assets/images/cubo.png">
+    </div>
+      <div class="title absolute back text-center"  >
+        <h3 class="white bold"> Marcelo Tostes<h3>
+        <span class="white text-size-70 container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex enim, rutrum fringilla leo viverra, tincidunt sagittis.</span>
+    </div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-3 relative border-all-grey content">
+   <div class="front absolute"  > 
+      <img src="assets/images/emae.png">
+    </div>
+      <div class="title absolute back text-center"  >
+        <h3 class="white bold"> Marcelo Tostes<h3>
+        <span class="white text-size-70 container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex enim, rutrum fringilla leo viverra, tincidunt sagittis.</span>
+    </div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-3 relative border-all-grey content">
+   <div class="front absolute"  > 
+      <img src="assets/images/cbv.png">
+    </div>
+      <div class="title absolute back text-center"  >
+        <h3 class="white bold"> Marcelo Tostes<h3>
+        <span class="white text-size-70 container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex enim, rutrum fringilla leo viverra, tincidunt sagittis.</span>
+    </div>
+</div>
+
+</div>
+<!-- Second line -->
+<div class="row mosaico container">
+<div class="col-md-3 col-sm-3 col-xs-3 relative border-all-grey content">
+   <div class="front absolute"  > 
+      <img src="assets/images/costa-marfori.png">
+    </div>
+      <div class="title absolute back text-center"  >
+        <h3 class="white bold"> Marcelo Tostes<h3>
+        <span class="white text-size-70 container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex enim, rutrum fringilla leo viverra, tincidunt sagittis.</span>
+    </div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-3 relative border-all-grey content">
+   <div class="front absolute"  > 
+      <img src="assets/images/pedro-miguel.png">
+    </div>
+      <div class="title absolute back text-center"  >
+        <h3 class="white bold"> Marcelo Tostes<h3>
+        <span class="white text-size-70 container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex enim, rutrum fringilla leo viverra, tincidunt sagittis.</span>
+    </div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-3 relative border-all-grey content">
+   <div class="front absolute"  > 
+      <img src="assets/images/andrade-cc.png">
+    </div>
+      <div class="title absolute back text-center"  >
+        <h3 class="white bold"> Marcelo Tostes<h3>
+        <span class="white text-size-70 container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex enim, rutrum fringilla leo viverra, tincidunt sagittis.</span>
+    </div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-3 relative border-all-grey content">
+   <div class="front absolute"  > 
+      <img src="assets/images/andrade-cc.png">
+    </div>
+      <div class="title absolute back text-center"  >
+        <h3 class="white bold"> Marcelo Tostes<h3>
+        <span class="white text-size-70 container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex enim, rutrum fringilla leo viverra, tincidunt sagittis.</span>
+    </div>
+</div>
+</div>
+<!-- Second line -->
+<div class="row mosaico container">
+<div class="col-md-3 col-sm-3 col-xs-3 relative border-all-grey content">
+   <div class="front absolute"  > 
+      <img src="assets/images/martorelli.png">
+    </div>
+      <div class="title absolute back text-center"  >
+        <h3 class="white bold"> Marcelo Tostes<h3>
+        <span class="white text-size-70 container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex enim, rutrum fringilla leo viverra, tincidunt sagittis.</span>
+    </div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-3 relative border-all-grey content">
+   <div class="front absolute"  > 
+      <img src="assets/images/urbano-vitalino.png">
+    </div>
+      <div class="title absolute back text-center"  >
+        <h3 class="white bold"> Marcelo Tostes<h3>
+        <span class="white text-size-70 container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex enim, rutrum fringilla leo viverra, tincidunt sagittis.</span>
+    </div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-3 relative border-all-grey content" >
+   <div class="front absolute"> 
+      <img src="assets/images/costa.png">
+    </div>
+      <div class="title absolute back text-center">
+        <h3 class="white bold"> Marcelo Tostes<h3>
+        <span class="white text-size-70 container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex enim, rutrum fringilla leo viverra, tincidunt sagittis.</span>
+    </div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-3 relative border-all-grey content">
+   <div class="front absolute"> 
+      <img src="assets/images/localiza.png">
+    </div>
+      <div class="title absolute back text-center" >
+        <h3 class="white bold"> Marcelo Tostes<h3>
+        <span class="white text-size-70 container">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex enim, rutrum fringilla leo viverra, tincidunt sagittis.</span>
+    </div>
+</div>
+</div>
+</body>
+
+</html>
