@@ -69,6 +69,8 @@ body {
   background-color: #e1960f;
   min-height: 100%;
   width: 100%;
+  left: 0;
+  top: 0;
   padding-top: 0;
   display: flex;
   align-items: center;
